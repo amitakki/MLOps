@@ -8,4 +8,5 @@
 
 ## GPU
 
+* [Graphical Processing Unit](https://www.youtube.com/watch?v=bZdxcHEM-uc)
 * [Nvidia GPU Architecture](https://www.youtube.com/watch?v=lGefnd7Fmmo)
