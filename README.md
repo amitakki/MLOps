@@ -18,6 +18,7 @@
 * [Open MPI: Open Source High Performance Computing](https://www.open-mpi.org/)
 ### Libraries
 * [Dask: a Python library for parallel and distributed computing](https://docs.dask.org/en/stable/)
+* [CuPy](https://docs.cupy.dev/en/stable/overview.html)
 ### Tutorials
 * [Message Passing Interface (MPI)](https://hpc-tutorials.llnl.gov/mpi/#What)
 
