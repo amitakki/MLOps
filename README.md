@@ -19,6 +19,7 @@
 ### Libraries
 * [Dask: a Python library for parallel and distributed computing](https://docs.dask.org/en/stable/)
 * [CuPy](https://docs.cupy.dev/en/stable/overview.html)
+* [MPI for Python](https://mpi4py.readthedocs.io/en/stable/)
 ### Tutorials
 * [Message Passing Interface (MPI)](https://hpc-tutorials.llnl.gov/mpi/#What)
 
