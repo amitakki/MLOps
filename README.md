@@ -21,5 +21,6 @@
 * [CuPy](https://docs.cupy.dev/en/stable/overview.html)
 * [MPI for Python](https://mpi4py.readthedocs.io/en/stable/)
 ### Tutorials
+* [Introduction to parallel Programming in Open MP](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFMAko9JTyDJDIt1W48Sxmg)
 * [Message Passing Interface (MPI)](https://hpc-tutorials.llnl.gov/mpi/#What)
 
