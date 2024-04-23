@@ -1,4 +1,4 @@
-# Machine Learning Operations(MLOps)
+# Scalable Machine Learning
 
 ## Multi-Core and Parallel Architecture
 
